@@ -1,8 +1,14 @@
-nav_include: 2
+---
+title: Models
+notebook: olives-model.ipynb
+nav_include: 1
+---
 
-# Models
-
-
+## Contents
+{:.no_toc}
+*  
+{: toc}
+"""
 
 ```python
 #!pip install seaborn
