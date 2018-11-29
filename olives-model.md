@@ -8,7 +8,6 @@ nav_include: 1
 {:.no_toc}
 *  
 {: toc}
-"""
 
 ```python
 #!pip install seaborn
